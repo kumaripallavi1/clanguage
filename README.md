@@ -1,2 +1,2 @@
-# clanguage
+# clanguage-a programming language
 # language
